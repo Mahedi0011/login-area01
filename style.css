@@ -1,0 +1,49 @@
+body{
+    background: black;
+}
+
+form{
+    width: 270px;
+    height: 430px;
+    border: 2px solid greenyellow;
+    border-radius: 10px;
+    margin-top: 70px;
+    font-family: sans-serif;
+    }
+h1{
+    font-size: 30px;
+    color: aliceblue;
+}
+h3{
+    font-size: 15px;
+    color: white;
+    text-align: left;
+    margin-left: 18px;
+}
+input[type="text"],input[type="password"]{
+    width: 210px;
+    margin-top: 05px;
+    padding: 10px;
+    border: 1px solid greenyellow;
+    border-radius: 10px;
+    background: transparent;
+    color: aliceblue;
+    font-size: 15px;
+    cursor: pointer;
+}
+input[type="button"]{
+    margin-top: 15px;
+    padding: 08px 20px;
+    font-size: 20px;
+    background-color: greenyellow;
+    border-radius: 13px;
+ }
+ p{
+    font-size: 18px;
+    color:white;
+ }
+ .sing a{
+    text-decoration: none;
+    font-size: 18px;
+    color: greenyellow;
+ }
